@@ -7,7 +7,7 @@ You can find the concept renders here.
 - Small form factor
 - Modular design
 - Option for monochromic display
-- Silicon tactile phyisical button
+- Silicon tactile physical button
 - As a communication device the camera is secondary
 - Support mesh networking
 - Long lasting battery
